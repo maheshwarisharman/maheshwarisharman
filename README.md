@@ -23,7 +23,7 @@ Currently focused on **AI-powered systems, scalable backend architecture, and pr
 
 ## 🏗 Founder Experience
 
-### ⚡ BlitzNative — Native Shopify Apps for eCommerce Brands  
+### ⚡ BlitzNative — Native Shopify Apps for eCommerce Brands  (https://blitznative.com)
 **Founder & Full Stack Developer**
 
 - Built and launched native Shopify applications for eCommerce merchants
