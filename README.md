@@ -1,4 +1,4 @@
-# Hi, I'm Sharman 👋  
+# Hi, I'm Sharman 
 ### Full Stack Engineer | AI Systems Builder | Startup Founder  
 
 I build production-grade applications across **backend, AI, and cloud systems**.  
@@ -6,9 +6,9 @@ Currently focused on **AI-powered systems, scalable backend architecture, and pr
 
 ---
 
-## 🚀 Experience
+##  Experience
 
-### 🧠 Beehoked — AI Video Generation Startup (Remote Intern)  
+### Beehoked — AI Video Generation Startup (Remote Intern)  
 **Full Stack / AI Engineering Intern**
 
 - Contributed to AI-driven video generation workflows
@@ -21,22 +21,23 @@ Currently focused on **AI-powered systems, scalable backend architecture, and pr
 
 ---
 
-## 🏗 Founder Experience
+## Founder Experience
 
-### ⚡ BlitzNative — Native Shopify Apps for eCommerce Brands  (https://blitznative.com)
+### ⚡ BlitzNative — Native Mobile Apps for shopify Brands  (https://blitznative.com)
 **Founder & Full Stack Developer**
 
-- Built and launched native Shopify applications for eCommerce merchants
-- Designed backend systems for store-level customization & data handling
-- Implemented authentication, API integrations & merchant dashboards
-- Focused on improving merchant conversion & operational workflows
-- Handled product design, development, deployment & iteration
-
+- Native iOS & Android app generation
+- Drag-and-drop visual app builder (no code required)
+- Real-time component sync
+- One-touch OTP & social login
+- Unlimited push notifications
+- Advanced analytics integration
+- Custom integrations (payment gateways, store features)
 > Built from scratch — product ideation → development → deployment → user feedback loop.
 
 ---
 
-## 🔥 Selected Technical Projects
+##  Selected Technical Projects
 
 ### 🛡 SHIELD – Women Safety App
 - Emergency SOS system
@@ -46,7 +47,7 @@ Currently focused on **AI-powered systems, scalable backend architecture, and pr
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 - Node.js
@@ -75,7 +76,7 @@ Currently focused on **AI-powered systems, scalable backend architecture, and pr
 
 ---
 
-## 💡 Engineering Philosophy
+## Engineering Philosophy
 
 - Systems > scripts  
 - Shipping > over-planning  
