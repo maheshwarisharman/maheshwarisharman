@@ -37,45 +37,6 @@ Currently focused on **AI-powered systems, scalable backend architecture, and pr
 
 ---
 
-##  Selected Technical Projects
-
-### 🛡 SHIELD – Women Safety App
-- Emergency SOS system
-- Real-time location sharing to 5 trusted contacts
-- Video evidence capture feature
-- Designed with real-world safety use cases
-
----
-
-## Tech Stack
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication Systems
-- Scalable architecture design
-
-### Frontend
-- React (Vite)
-- TypeScript
-- Tailwind CSS
-
-### Cloud & DevOps
-- AWS (EC2, S3, CloudFront, Elastic Beanstalk)
-- Docker
-- CI/CD pipelines
-- Linux server management
-- Nginx
-
-
-### Blockchain
-- Smart contract fundamentals
-- Web3 integrations
-- Decentralized architecture basics
-
----
-
 ## Engineering Philosophy
 
 - Systems > scripts  
