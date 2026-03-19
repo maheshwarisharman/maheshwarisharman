@@ -17,8 +17,6 @@ Currently focused on **AI-powered systems, scalable backend architecture, and pr
 - Managed Dockerized services & debugging in live environments
 - Collaborated in fast-paced startup execution cycles
 
-> Real-world startup engineering experience — shipping features, debugging production issues, and working with AI systems at scale.
-
 ---
 
 ## Founder Experience
@@ -37,21 +35,11 @@ Currently focused on **AI-powered systems, scalable backend architecture, and pr
 
 ---
 
-## Engineering Philosophy
 
-- Systems > scripts  
-- Shipping > over-planning  
-- Product thinking + technical depth  
-- Build fast, scale correctly  
-
----
-
-## 📫 Let’s Connect
+## Let’s Connect
 
 - LinkedIn: https://www.linkedin.com/in/sharman-maheshwari-a35394176/
 - Twitter/X: https://x.com/sharman3402
 - Email: maheshwarisharman@gmail.com
 
 ---
-
-> Engineer with startup execution experience across AI, SaaS, and eCommerce systems.
